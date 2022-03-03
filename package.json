@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin",
+  "version": "1.0.0",
+  "description": "babel的自我学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pgsz",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "dependencies": {
+    "babel-plugin-component": "^1.1.1"
+  }
+}

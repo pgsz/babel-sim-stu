@@ -1,0 +1,24 @@
+{
+  "plugins": [
+    // [
+    //   "pg",
+    //   {
+    //     "a": "aa",
+    //     "b": "bb"
+    //   }
+    // ],
+    // [
+    //   "pg",
+    //   {
+    //     "c": "ccc"
+    //   }
+    // ],
+    [
+      "component",
+      {
+        "libraryName": "element-ui",
+        "styleLibraryName": "theme-chalk"
+      }
+    ]
+  ]
+}
